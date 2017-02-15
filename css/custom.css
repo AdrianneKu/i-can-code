@@ -1,0 +1,179 @@
+/* Custom Styles*/
+
+header {
+    padding: 20px 0;
+    background-color: #c8f2fc;
+}
+a {
+    color: #f26a21;
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+    color: #6ecde2;
+    text-decoration: underline;
+}
+h1 {
+    margin-top: 100px;
+    font-size: 100px;
+    font-family: 'Alegreya', serif;
+    font-weight: 900;
+    color:#6ecde2;
+    vertical-align: middle;
+}
+h2 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    font-weight: 900;
+    color:#6ecde2;
+}
+h3 {
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    font-size: 30px;
+    color:#6ecde2;
+    margin-bottom: 35px;
+    margin-top: -20px;
+}
+h4 {
+    padding-top: 20px;
+}
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    color: #979797;
+}
+p.aboutText,
+p.workshopText  {
+    text-align: center;
+    color: #979797;
+}
+p.aboutText {
+    font-size: 30px;
+    line-height: 45px;
+}
+p.workshopText {
+    font-size: 22px;
+}
+p.footerText {
+    font-size: 15px;
+    padding-top: 20px;
+}
+.wrapper {
+    padding: 60px 0px;
+}
+.center {
+    text-align: center;
+}
+.form-Container {
+    margin: 0 auto;
+    padding: 15px;
+    max-width: 400px;
+    background-color: #6ecde2;
+    border-radius: 20px;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+.topMargin {
+    margin-top: 30px;
+}
+.negMargin {
+    margin-top: -20px;
+}
+.signUp {
+    background-color: #ffde93;
+}
+.html, .javascript, .jquery {
+    margin-bottom: 30px;
+}
+.workshop {
+    background-color: #c8f2fc;
+    text-align: center;
+}
+.moreInfo {
+    background-color: #ffde93;
+}
+ul.social-icons {
+    padding-top: 15px;
+    padding-right: 8px;
+    text-align: right;
+}
+ul.social-icons li {
+    display: inline-block;
+    font-size: 30px;
+}
+ul.social-icons i {
+    color: #f26a21;
+    display: block;
+    width: 45px;
+    height: 45px;
+}
+ul.social-icons li a {
+    display: block;
+    text-decoration: none;
+}
+.linkedin a:hover i {
+    color: #6ecde2;
+}
+.twitter a:hover i {
+    color: #6ecde2;
+}
+.github a:hover i {
+    color: #6ecde2;
+}
+.behance a:hover i {
+    color: #6ecde2;
+}
+.btn-lg,
+.btn-md {
+    background-color: #f26a21;
+    color: #fff;
+}
+.btn-lg-download {
+    border: thin solid #6ecde2;
+    padding: 10px 50px;
+    background-color: #fff;
+    color: #979797;
+}
+.btn-lg-download a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+.btn:hover,
+.btn:focus,
+.btn.focus {
+    color: #fff;
+    text-decoration: none;
+    background-color: #6ecde2;
+}
+footer {
+    margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+h1 {
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+ul.social-icons {
+    text-align: center;
+    margin-left: -50px;
+    margin-top: 25px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+p.aboutText {
+    font-size: 20px;
+    line-height: 35px;
+}
+p.workshopText {
+    font-size: 18px;
+}
+.html, .javascript, .jquery {
+    margin: 25px 0;
+}
+    
