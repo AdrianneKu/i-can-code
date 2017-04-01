@@ -1,8 +1,9 @@
-<h1>Responsive Bootstrap Landing Page</h1>
-<p>Multipurpose landing page created with Bootstrap. Free for personal or commercial use.</p>
-![alt text](images/icancode-screenshot.png "I Can Code")
-<h2>Get Started</h2>
-<p>Choose one of the following options:</p>
-<ul>
-<li>Clone repo: git clone https://github.com/AdrianneKu/i-can-code.git</li>
-<li>Fork the repo</li>
+#Responsive Bootstrap Landing Page
+Multipurpose landing page created with Bootstrap. Free for personal or commercial use.
+
+![icancode-screenshot](https://cloud.githubusercontent.com/assets/17210875/24583148/af019982-1706-11e7-9dc7-c27b4266fad1.png)
+
+##Get Started
+Choose one of the following options:
+Clone repo: git clone https://github.com/AdrianneKu/i-can-code.git
+Fork the repo
