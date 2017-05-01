@@ -9,3 +9,5 @@ Choose one of the following options:
 * Clone repo: git clone https://github.com/AdrianneKu/i-can-code.git
 
 * Fork the repo
+
+* View demo http://adriannekuczynski.me/icancode/
