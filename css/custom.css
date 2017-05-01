@@ -105,7 +105,7 @@ ul.social-icons li {
     font-size: 30px;
 }
 ul.social-icons i {
-    color: #f26a21;
+    color: #a4a4a4;
     display: block;
     width: 45px;
     height: 45px;
@@ -115,16 +115,16 @@ ul.social-icons li a {
     text-decoration: none;
 }
 .linkedin a:hover i {
-    color: #6ecde2;
+    color: #cccccc;
 }
 .twitter a:hover i {
-    color: #6ecde2;
+    color: #cccccc;
 }
 .github a:hover i {
-    color: #6ecde2;
+    color: #cccccc;
 }
 .behance a:hover i {
-    color: #6ecde2;
+    color: #cccccc;
 }
 .btn-lg,
 .btn-md {
@@ -176,4 +176,3 @@ p.workshopText {
 .html, .javascript, .jquery {
     margin: 25px 0;
 }
-    
